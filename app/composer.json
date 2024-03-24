@@ -1,0 +1,13 @@
+{
+    "name": "no4ch/alcoline-tt",
+    "description": "Test task source code for alcoline",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.3",
+        "symfony/console": "^7.0"
+    }
+}
